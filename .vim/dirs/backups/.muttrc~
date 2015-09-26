@@ -1,0 +1,17 @@
+set imap_user = "jmartiuk5@gmail.com"
+set imap_pass = "14881488jimbo"
+
+set smtp_url ="smtp://jmartiuk5@smtp.gmail.com:587/"
+set smtp_pass = "14881488jimbo"
+set from = "jmartiuk5@gmail.com"
+set realname = "James Martiuk"
+
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Gmail]/Drafts"
+
+set header_cache = ~/.mutt/cache/headers 
+set message_cachedir = ~/.mutt/cache/bodies
+set certificate_file = ~/.mutt/certificates 
+
+set move = no 

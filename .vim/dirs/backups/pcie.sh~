@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo your current power setting is 
+echo
+cat /sys/module/pcie_aspm/parameters/policy
+echo
+echo your new power setting is 
+echo
+echo powersave > /sys/module/pcie_aspm/parameters/policy
+
+cat /sys/module/pcie_aspm/parameters/policy
+
+echo System has now been set to powersave Thank you.
+

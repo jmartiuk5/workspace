@@ -1,0 +1,37 @@
+#,v
+server = SocketServer.TCPServer(serverAddr, EchoHandler),V
+pattern-highlighter.zsh,v
+ # To differentiate aliases from other command types    ZSH_HIGHLIGHT_STYLES[alias]='fg=magenta,bold',v
+ •Ability to work after hours and on-call weekend rotation ,v
+information security,v
+                                                               │ 3342 daemon     20   0 22480  2648  1768 S  0.0  0.0  0:01.13,V
+Exploit target:,V
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCsUD50N6D6Ccawp84E1fatgWir8BXwhLM+YQb48G73rZcdgHrvA2CFabBjyE6yDJOv9YnyxLwCGFSKThzrFaBgdn/WPIYKmxilHCiwXDjuqlgCHTujYCxF5sxUdEIMtpdPyJSZ/S1yzSbvvpR3oKlJuWhfZGenAK4PDSFffjnIkItSF4WO+LhXsBsq6IgsZjhdiwH0ninb8qGyxAX2bNtt1EjcF6/eDXotV9BTYbCeVbkj8VFLNJPN0B4W0CJQnD/QpHxSth3F59vxi1r6js2IAHhFSCgnjtG63lCfRKCCWIJr86PeCUDttYkdsScDdJZ19s5yLqpLByoFN3RF+EN/ root@Jamess-iPhone,v
+At least 2 years experience with IT helpdesk end-user, web, network & systems support.Able to work independently as well as coordinate on team effortsExcellent Customer Service Skills,v
+set editor='vim',v
+set header_cache=~/.mutt/cache/headersset message_cachedir=~/.mutt/cache/bodiesset certificate_file=~/.mutt/certificates,V
+https://www.google.com/search?client=opera&q=how+to+hack+a+computer+with+arduino&sourceid=opera&ie=UTF-8&oe=UTF-8,v
+Share this:    TwitterFacebookGoogleRelatedPenetration Testing : Hacking Windows Using Metasploit and MeterpreterJava signed applet Hack Windows 8 Java vulnerabilityPenetration Testing : Crash Windows 7 Using Metasploit and Remote Desktop Connection VulnerabilityLeave a Reply,V
+ exploit-db,v
+binscan   msfvenomCONTRIBUTING.md  Gemfile.lock                       msfconsole   pluginsCOPYING          HACKING                            msfd         Rakefiledata             lib                                msfelfscan   README.mddatabase.yml     LICENSE                            msfmachscan  scriptdb               metasploit-framework-db.gemspec    msfpescan    scriptsdocumentation    metasploit-framework-full.gemspec  msfrop       specexternal         metasploit-framework.gemspec       msfrpc       testfeatures         metasploit-framework-pcap.gemspec  msfrpcd      tools➜  metasploit-framework git:(master) mv database.yml .msf4 mv: cannot move ‘database.yml’ to ‘.msf4/database.yml’: Permission denied➜  metasploit-framework git:(master) sudo chown DarkFox .msf4 [sudo] password for DarkFox: ➜  metasploit-framework git:(master) mv database.yml .msf4   ➜  metasploit-framework git:(master) clear[3;J➜  metasploit-framework git:(master) lsapp              Gemfile.local.example              msfbinscan   msfvenomconfig           Gemfile.lock                       msfconsole   pluginsCONTRIBUTING.md  HACKING                            msfd         RakefileCOPYING          lib                                msfelfscan   README.mddata             LICENSE                            msfmachscan  scriptdb               metasploit-framework-db.gemspec    msfpescan    scriptsdocumentation    metasploit-framework-full.gemspec  msfrop       specexternal         metasploit-framework.gemspec       msfrpc       testfeatures         metasploit-framework-pcap.gemspec  msfrpcd      toolsGemfile          modules                            msfupdate➜  metasploit-framework git:(master) clear[3;J➜  metasploit-framework git:(master) ,V
+/usr/share/metasploit-framework/vendor/bundle/ruby/2.1.0/gems/metasploit-credential-1.0.0/spec/dummy/config/,v
+,V
+http://hunt.net.nz/users/darran/weblog/b3029/Arduino_UNO_Keyboard_HID_version_03.html,v
+3940,v
+server =SocketServer.TCPServer(serverAddr, EchoHandler),V
+ ,v
+	signed char	integer	1	(3)B	unsigned char	integer	1,v
+Character	Byte order	Size	Alignment@	native	native	native=	native	standard	none<	little-endian	standard	none>	big-endian	standard	none!	network (= big-endian)	standard	none,V
+apt-get install python-software-properties,V
+cat /proc/sys/vm/laptop_mode,v
+or anyone who clones the repository. –  Mark Longair Jun 29 '12 at 10:19  	 	@Gareth: since empty folders aren't tracked with git, if the content is ignored, the folder also will be, won't it? –  eckes Jun 29 '12 at 10:34  	 	Exactly, hence the index.html files. that way the folders are not empty. –  Hailwood Jun 29 '12 at 10:53,v
+,V
+https://github.com/sjl/badwolf.git,v
+sudo apt-get install python-fontforge,v
+14881488,v
+echo,V
+",v
+wombat,v
+/sys/module/pcie_aspm/parameters/policy,v
+#!/bin/bash,V
+https://www.google.com/search?q=power+top&ie=utf-8&oe=utf-8,v
